@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samriddhi448
-- 👀 I’m interested in full stack 
-- 🌱 I’m currently learning backend development 
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on anything that improves my knowledge and skills
 - 📫 How to reach me : samriddhij06@gmail.com
 
