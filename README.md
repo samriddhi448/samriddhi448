@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samriddhi448
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning 
+- 👀 I’m interested in MERN Stack
+- 🌱 I’m currently working as a software development engineer
 - 💞️ I’m looking to collaborate on anything that improves my knowledge and skills
 - 📫 How to reach me : samriddhij06@gmail.com
 
